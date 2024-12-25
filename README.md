@@ -37,11 +37,7 @@ Kami berkomitmen melindungi privasi pengguna AIkuAssisten.
 2. Perubahan akan diumumkan melalui situs web atau email.
 
 *Kontak* 
-Email: [ali699445@gmail.com] 
-Telepon: [+6285776838108]  
+Email: ali699445@gmail.com
+Telepon: +6285776838108
 
-*Versi*  Versi 1.0, Tanggal: [25 desember 2024] 
-
-*Sumber* 
-1. Undang-Undang Perlindungan Data Pribadi Indonesia Nomor 27 Tahun 2022
-2. Kebijakan Privasi GitHub 3. General Data Protection Regulation (GDPR)
+*Versi*  Versi 1.0, Tanggal: 25 desember 2024
