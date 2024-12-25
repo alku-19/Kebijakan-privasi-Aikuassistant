@@ -40,4 +40,4 @@ Kami berkomitmen melindungi privasi pengguna AIkuAssisten.
 Email: ali699445@gmail.com
 Telepon: +6285776838108
 
-*Versi*  Versi 1.0, Tanggal: 25 desember 2024
+*Versi*  Versi 1.0, Tanggal: 25 desember 2024.
